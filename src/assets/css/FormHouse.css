@@ -1,0 +1,28 @@
+
+.formHouse{
+    padding-left: 1.5em !important;
+}
+
+.label-form{
+    color: black;
+    font-size: 17px;
+    width: 6em;
+    padding-left: 0px;
+}
+
+.input-group{
+    margin-bottom: 0.5em 
+}
+
+.label-form-address{
+    padding-left: 0px;
+    margin-left: -17em;
+}
+
+.divAddress{
+    padding-top: 1em
+}
+
+.divBtnCreate{
+    padding-top: 3.5em
+}
